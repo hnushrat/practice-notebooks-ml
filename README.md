@@ -1,4 +1,4 @@
--   These are the beginner friendly notebooks one can refer to for:
+#   These are the beginner friendly notebooks one can refer to for:
 
 *   NumPy
 *   Pandas
